@@ -45,8 +45,8 @@ To ensure data consistency and quality:
 | XGBoost (tuned) | **0.928** | **0.180** | Fast, scalable, and highly accurate |
 | MLP (tuned) | 0.916 | 0.195 | Improved after tuning, slight variance |
 
-📊 **Best Models:** Random Forest, XGBoost, and Gradient Boosting  
-🏆 **Performance:** R² ≈ 0.93 | RMSE ≈ 0.18  
+ **Best Models:** Random Forest, XGBoost, and Gradient Boosting  
+ **Performance:** R² ≈ 0.93 | RMSE ≈ 0.18  
 
 ---
 
